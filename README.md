@@ -2,6 +2,9 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Description
+This is a supervised machine learning project to identify donors for the fictious company charityML. The dataset and the files in the project have been explained below. 
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -17,7 +20,7 @@ Anaconda is recommended. [Anaconda](https://www.continuum.io/downloads)
 
 ### Code
 
-`finding_donors.ipynb` file contains the code for the project. `visuals.py` file contains helper visualization functions. `cencus.csv` file is the dataset that has been described in detail below. 
+`finding_donors.ipynb` file contains the code for the project. `visuals.py` file contains helper visualization functions. `census.csv` file is the dataset that has been described in detail below. 
 
 ### Run
 
